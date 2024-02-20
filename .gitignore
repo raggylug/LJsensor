@@ -238,17 +238,3 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
-
-
-# csv files
-src/2Dplanes_12000_14000_0.csv
-src/2Dplanes_9200_10800_5.csv
-src/2Dplanes_9500_10500_20.csv
-src/2Dplanes_9000_11000_0.csv
-src/2Dplanes_9000_11000_10.csv
-src/upsampled_data/2Dplanes_18000_22000_0.csv
-src/upsampled_data/upsampled_data.csv
-src/2Dplanes_8700_11600_0.csv
-
-
-.csv
